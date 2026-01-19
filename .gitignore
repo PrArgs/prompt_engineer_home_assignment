@@ -5,3 +5,5 @@
 -. ipynb_checkpoints/*.zip
 -*.zip
 
+/skf_ha/figures
+skf_ha/Roi_Argaman_HA.zip
